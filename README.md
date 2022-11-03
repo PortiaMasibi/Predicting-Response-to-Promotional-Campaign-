@@ -8,4 +8,4 @@ In this project, I apply Machine Learning algorithms to retail data that capture
 5. Present solution (pptx)
 6. Suggest ways to launch, monitor, and maintain system
 
-Data Source: University of Toronto [Data Mining in Engineering (CHE1147) and Process Data Analytics (CHE1148)]
+Data Source: https://www.kaggle.com/datasets/regivm/retailtransactiondata
