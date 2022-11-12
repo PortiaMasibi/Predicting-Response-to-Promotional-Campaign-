@@ -9,3 +9,4 @@ In this project, I apply Machine Learning algorithms to retail data that capture
 6. Suggest ways to launch, monitor, and maintain system
 
 Data Source: https://www.kaggle.com/datasets/regivm/retailtransactiondata
+University of Toronto Project
