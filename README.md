@@ -8,6 +8,8 @@ In this project, I apply Machine Learning algorithms to retail data that capture
 4. Present solution (pptx)
 
 
+![image-3.png](attachment:image-3.png)
+
 University of Toronto Project, 
 Data Source: https://www.kaggle.com/datasets/regivm/retailtransactiondata
 
