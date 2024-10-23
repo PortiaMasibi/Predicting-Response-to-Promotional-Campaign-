@@ -8,7 +8,8 @@ In this project, I apply Machine Learning algorithms to retail data that capture
 4. Present solution (pptx)
 
 
-![image-3.png](attachment:image-3.png)
+![image](https://github.com/user-attachments/assets/7a821190-dd51-4422-8ecc-5bb196bebfff)
+
 
 University of Toronto Project, 
 Data Source: https://www.kaggle.com/datasets/regivm/retailtransactiondata
