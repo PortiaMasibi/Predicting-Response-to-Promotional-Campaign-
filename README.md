@@ -5,7 +5,7 @@ In this project, I apply Machine Learning algorithms to retail data that capture
 1. Visualizing the data to gain insights and preparing it for algorithms ( feature engineering)
 2. Training classification models and selecting the best model 
 3. Deploying the best model and monitoring its performance  
-4. Present solution (pptx)
+
 
 
 ![image](https://github.com/user-attachments/assets/7a821190-dd51-4422-8ecc-5bb196bebfff)
