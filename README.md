@@ -1,10 +1,13 @@
 # Predicting-Response-to-Promotional-Campaign-
 
-In this project, I apply Machine Learning algorithms to retail data that captures annual and monthly spending trends. The aim of this project is to strategically target customers with campaings based on their spending trends. Binary Classification Algorithms will be used and the steps of this projecy are:
+Business Strategy: In this project we are using retail data to predict clients responses to a promotional campaigns. The aim of this project is to strategically target customers with campaings based on their spending trends, helping businesses be more successful on their marketing trends
 
-1. Visualizing the data to gain insights and preparing it for algorithms ( feature engineering)
-2. Training classification models and selecting the best model 
-3. Deploying the best model and monitoring its performance  
+ Machine Learning algorithms are applied to retail data that captures annual and monthly spending trends.The steps of this projecy are:
+
+1. Data analysis and time series feature generation in initial_data_analysis.ipynb
+2. Training classification models and selecting the best model in comparing_algorithms.ipynb
+3. Optimizing the best model in performance_analysis.ipynb
+4. Deploying the best model and monitoring its performance in main.py 
 
 
 
