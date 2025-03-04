@@ -7,7 +7,7 @@ Business Strategy: In this project we are using retail data to predict clients r
 1. Data analysis and time series feature generation in initial_data_analysis.ipynb
 2. Training classification models and selecting the best model in comparing_algorithms.ipynb
 3. Optimizing the best model in performance_analysis.ipynb
-4. Deploying the best model and monitoring its performance in main.py 
+4. Deploying the best model and monitoring its performance in model.py 
 
 
 
