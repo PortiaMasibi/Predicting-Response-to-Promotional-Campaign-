@@ -11,8 +11,6 @@ Ref: https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.a
 1. Data analysis and time series feature generation in initial_data_analysis.ipynb
 2. Training classification models and selecting the best model in comparing_algorithms.ipynb
 3. Optimizing the best model in performance_analysis.ipynb
-4. Deploying the best model and monitoring its performance in model.py 
-
 
 
 ![image](https://github.com/user-attachments/assets/7a821190-dd51-4422-8ecc-5bb196bebfff)
